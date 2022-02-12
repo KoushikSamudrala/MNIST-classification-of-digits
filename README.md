@@ -6,4 +6,4 @@ All the digits are of grayscaled images of size 60.000 training samples and 1000
 
 we will be using CNN architecture to solve this task of digit classification.
 
-Implementation is done using tensorflow/keras module.
+Implementation is done using tensorflow/keras module.!
