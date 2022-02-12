@@ -5,3 +5,5 @@ MNIST is the dataset consists of images and labels of handwritten digits ranging
 All the digits are of grayscaled images of size 60.000 training samples and 10000 test samples.
 
 we will be using CNN architecture to solve this task of digit classification.
+
+Implementation is done using tensorflow/keras module.
